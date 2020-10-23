@@ -45,5 +45,9 @@ function draw() {
   text("Thickness :",40,200)
   text("Speed : ",50,250)
   text("Weight :",50,300)
+    textSize(30)
+  fill("blue")
+  text("Reliability Of The Walls When Bullets Hit Them.",200,50)
+
 }
 
